@@ -1,0 +1,2 @@
+# Gitalias
+Alias Git
